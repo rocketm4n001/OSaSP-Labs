@@ -1,0 +1,4 @@
+C:\Users\German\source\repos\phoneCatalog\Debug\phoneCatalog.exe
+C:\Users\German\source\repos\phoneCatalog\Debug\phoneCatalog.pdb
+D:\Education\Operation Systems and System Programming\5 Lab\phoneCatalog\Debug\phoneCatalog.exe
+D:\Education\Operation Systems and System Programming\5 Lab\phoneCatalog\Debug\phoneCatalog.pdb

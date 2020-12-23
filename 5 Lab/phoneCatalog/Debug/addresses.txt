@@ -1,0 +1,4 @@
+1 +375333363935 Nauyokas German Yurevich Socialisticheskaya 168 1 42
+2 +375291234567 Pupkin Vasiliy Vasilievich Lenina 1 1 1
+3 +375331234567 Lee Denis Vickorovich Gikalo 9 3 4
+4 +375441234567 Antonik Artem Sergeevich Pushkina 2 2 8

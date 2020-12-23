@@ -1,0 +1,28 @@
+﻿  pch.cpp
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\Address.h(24,17): warning C4251: Address::tel: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Address"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\Address.h(25,21): warning C4251: Address::surname: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Address"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\Address.h(26,18): warning C4251: Address::name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Address"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\Address.h(27,24): warning C4251: Address::fatherName: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Address"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\Address.h(28,20): warning C4251: Address::street: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Address"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\pch.cpp(102,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\pch.cpp(140,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\pch.cpp(199,25): warning C4018: <: несоответствие типов со знаком и без знака
+  Address.cpp
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\Address.h(24,17): warning C4251: Address::tel: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Address"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\Address.h(25,21): warning C4251: Address::surname: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Address"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\Address.h(26,18): warning C4251: Address::name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Address"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\Address.h(27,24): warning C4251: Address::fatherName: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Address"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\Education\Operation Systems and System Programming\5 Lab\DBCore\Address.h(28,20): warning C4251: Address::street: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Address"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  dllmain.cpp
+  Создание кода...
+  DBCore.vcxproj -> D:\Education\Operation Systems and System Programming\5 Lab\phoneCatalog\Debug\DBCore.dll
