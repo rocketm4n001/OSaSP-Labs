@@ -1,0 +1,6 @@
+C:\Users\German\source\repos\ApiHooking\Debug\ApiHooking.exe
+C:\Users\German\source\repos\ApiHooking\Debug\ApiHooking.pdb
+C:\Users\factm4n\Desktop\OSaSP-labs-master\dllInjection\ApiHooking\Debug\ApiHooking.exe
+C:\Users\factm4n\Desktop\OSaSP-labs-master\dllInjection\ApiHooking\Debug\ApiHooking.pdb
+D:\Education\Operation Systems and System Programming\6 Lab\ApiHooking\Debug\ApiHooking.exe
+D:\Education\Operation Systems and System Programming\6 Lab\ApiHooking\Debug\ApiHooking.pdb
